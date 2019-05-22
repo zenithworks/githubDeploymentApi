@@ -9,3 +9,4 @@ edit master2
 edit f2
 
 ###newf2
+f2-edit4
